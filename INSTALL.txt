@@ -1,1 +1,5 @@
-Register an account on https://testnet.bigchaindb.com/
+Register an account on https://testnet.bigchaindb.com
+> cp src/config-sample.json src/config.json
+Edit src/config.json
+npm install
+npm start

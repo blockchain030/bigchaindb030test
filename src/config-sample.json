@@ -1,5 +1,5 @@
 {
-    apiRootEndpoint: undefined,
-    app_id: undefined,
-    app_key: undefined,
+    "apiRootEndpoint": "",
+    "app_id": "",
+    "app_key": ""
 }
